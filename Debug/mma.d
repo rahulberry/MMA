@@ -1,0 +1,1 @@
+mma.d: ../mma.cpp
